@@ -1,0 +1,33 @@
+@font-face { 
+  font-family: western; 
+  src: url(../fonts/RioGrande.ttf);
+}
+
+
+.backgroundLayer {
+  background-image: url(../images/train-station-background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: auto;
+}
+
+.title {
+font-family: western;
+}
+
+.opac {
+  opacity: .85;
+}
+
+.card-header {
+  font-weight: bold;
+}
+
+.scheduleCard {
+  margin-bottom: 15px;
+}
+
+.signupCard {
+  margin-bottom: 35px;
+}
